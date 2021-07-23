@@ -156,6 +156,11 @@ section {
   font-size: 0.9rem;
 }
 
+.img-container {
+  position: relative;
+  text-align: center;
+}
+
 /* feature first portfolio item */
 .grid-item:first-child {
     grid-column: span 8;
